@@ -1,0 +1,51 @@
+
+ul{
+    list-style: none;
+    
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 230px;
+    margin-right: 340px;
+    
+}
+.leo{
+    font-family: serif;
+    font-size: 50px;
+}
+
+ul a{
+    color: black;
+    text-decoration: none;
+     
+}
+
+.test{
+    text-align: center;
+    margin-top: 100px;
+}
+
+input , button {
+    margin-top: 10px;
+    width: 400px;
+    height: 38px;
+}
+
+button{
+    background-color: rgb(17 24 39);
+    color: white;
+    border-color: rgb(17 24 39);
+    width: 410px;
+    height: 45px;
+    margin-bottom: 15px;
+}
+
+button:hover{
+    background-color: white;
+    color: rgb(17 24 39);
+}
+
+
+.join a{
+    color: black;
+}
